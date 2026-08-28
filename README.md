@@ -12,5 +12,7 @@ Using Flutter framework, make the app in Dart langauge and build the app using `
 A student orders -> app sends http request to the server -> server responds by first checking if balance is sufficient then subtracting total balance by order cost -> canteen personnel sees the order and makes the food and marks the order as ready -> student grabs food from the canteen
 ## Contributers:
 Jia Katrine A. Negros
+
 Vic Giohann C. Nuevo
+
 Ponce Jerone C. Peñeda
